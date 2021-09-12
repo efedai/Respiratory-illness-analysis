@@ -1,2 +1,2 @@
 # Respiratory-illness-analysis
-Various data analysis techniques applied ranging from data exploratory to machine learning algorithms.
+Various data analysis techniques applied ranging from data exploratory to machine learning techniques.
